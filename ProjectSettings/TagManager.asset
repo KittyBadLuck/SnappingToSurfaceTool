@@ -5,9 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Sphere
-  - Cube
   - Cylinder
   - Surfaces
+  - Cube
   layers:
   - Default
   - TransparentFX

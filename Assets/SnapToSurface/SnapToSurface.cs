@@ -6,7 +6,7 @@ using UnityEditor;
 public class SnapToSurface : MonoBehaviour
 {
     public bool SnapRotation = false;
-    public string tagToDetect = "Sphere";
+    public string tagToDetect = "Untagged";
     public float maxDistanceDetect = 10f;
     public float ClampOffset = 5;
     public Vector3 BasePosition;
